@@ -3,7 +3,27 @@ title: 'Chapter 13: Geospatial R Raster'
 date: 2026-03-23T00:00:00.000Z
 authors:
   - id: jpgannon
+    name: JP Gannon
+    email: jpgannon@vt.edu
+    github: jpgannon
+    orcid: 0000-0002-4595-3214
+    corresponding: true
+    url: https://jpgannon.github.io/
+    affiliations:
+      - vt-tech
+affiliations:
+  - id: vt-tech
+    name: Virginia Tech
+    url: https://www.vt.edu/
+subject: Courseware
+doi: https://doi.org/10.4211/hs.bb17c7acc12a4b22a5d8358d1c080777
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/bb17c7acc12a4b22a5d8358d1c080777/
 github: https://github.com/VT-Hydroinformatics/13-Geospatial-Raster-Hydro
+downloads:
+  - file: 13-Geospatial-Raster-Hydro.md
+  - file: 13-Geospatial-Raster-Hydro.pdf
 ---
 
 
